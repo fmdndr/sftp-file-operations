@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: jschdemo
+
+sftp:
+  host: "0.0.0.0"
+  port: 2036
+  username: "sftp_user"
+  password: "sftuser"
+  sessionTimeout: 30000
+  channelTimeout: 30000
